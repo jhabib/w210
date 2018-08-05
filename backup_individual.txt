@@ -1,0 +1,1169 @@
+####################
+Column: bathrooms
+MSE: 25.2427410213
+R2: -0.0109961825729
+####################
+
+####################
+Column: bedrooms
+MSE: 25.2303156616
+R2: -0.010498534903
+####################
+
+####################
+Column: beds
+MSE: 25.3364704925
+R2: -0.0147501385105
+####################
+
+####################
+Column: cleaning_fee
+MSE: 24.5487543268
+R2: 0.0167986554884
+####################
+
+####################
+Column: guests_included
+MSE: 25.3411602245
+R2: -0.0149379668118
+####################
+
+####################
+Column: host_listings_count
+MSE: 24.2189878464
+R2: 0.030006121849
+####################
+
+####################
+Column: host_acceptance_rate
+MSE: 25.626677382
+R2: -0.0263732050062
+####################
+
+####################
+Column: host_response_rate
+MSE: 26.3286828474
+R2: -0.0544892025936
+####################
+
+####################
+Column: host_has_profile_pic
+MSE: 25.3364292262
+R2: -0.0147484857544
+####################
+
+####################
+Column: host_identity_verified
+MSE: 25.3359312661
+R2: -0.0147285419706
+####################
+
+####################
+Column: days_delta
+MSE: 25.479198143
+R2: -0.0204665189015
+####################
+
+####################
+Column: reviews_per_month
+MSE: 25.1758265291
+R2: -0.00831619246769
+####################
+
+####################
+Column: bed_type_couch
+MSE: 25.3397192682
+R2: -0.0148802551188
+####################
+
+####################
+Column: bed_type_futon
+MSE: 25.3505663985
+R2: -0.0153146931722
+####################
+
+####################
+Column: bed_type_pull_out_sofa
+MSE: 25.3227857334
+R2: -0.0142020506795
+####################
+
+####################
+Column: bed_type_real_bed
+MSE: 25.343296659
+R2: -0.0150235330778
+####################
+
+####################
+Column: room_type_entire_home_apt
+MSE: 25.2407184534
+R2: -0.0109151767723
+####################
+
+####################
+Column: room_type_private_room
+MSE: 25.3083948291
+R2: -0.0136256810475
+####################
+
+####################
+Column: room_type_shared_room
+MSE: 25.2970751421
+R2: -0.013172316641
+####################
+
+####################
+Column: neighbourhood_cleansed_bayview
+MSE: 25.2667354975
+R2: -0.0119571845412
+####################
+
+####################
+Column: neighbourhood_cleansed_bernal_heights
+MSE: 25.2958118909
+R2: -0.0131217222089
+####################
+
+####################
+Column: neighbourhood_cleansed_castro_upper_market
+MSE: 25.2388087208
+R2: -0.0108386901361
+####################
+
+####################
+Column: neighbourhood_cleansed_chinatown
+MSE: 25.3297515341
+R2: -0.0144810377299
+####################
+
+####################
+Column: neighbourhood_cleansed_crocker_amazon
+MSE: 25.3162109175
+R2: -0.0139387229465
+####################
+
+####################
+Column: neighbourhood_cleansed_diamond_heights
+MSE: 25.331244818
+R2: -0.014540845193
+####################
+
+####################
+Column: neighbourhood_cleansed_downtown_civic_center
+MSE: 25.1059547262
+R2: -0.00551775920585
+####################
+
+####################
+Column: neighbourhood_cleansed_excelsior
+MSE: 25.2986697441
+R2: -0.0132361819932
+####################
+
+####################
+Column: neighbourhood_cleansed_financial_district
+MSE: 25.3470939753
+R2: -0.0151756192659
+####################
+
+####################
+Column: neighbourhood_cleansed_glen_park
+MSE: 25.3313372297
+R2: -0.0145445463713
+####################
+
+####################
+Column: neighbourhood_cleansed_golden_gate_park
+MSE: 25.3430115176
+R2: -0.015012112888
+####################
+
+####################
+Column: neighbourhood_cleansed_haight_ashbury
+MSE: 25.3444743079
+R2: -0.0150706990573
+####################
+
+####################
+Column: neighbourhood_cleansed_inner_richmond
+MSE: 25.3645168787
+R2: -0.0158734233922
+####################
+
+####################
+Column: neighbourhood_cleansed_lakeshore
+MSE: 25.3415776742
+R2: -0.0149546860758
+####################
+
+####################
+Column: neighbourhood_cleansed_marina
+MSE: 25.3465713355
+R2: -0.0151546870378
+####################
+
+####################
+Column: neighbourhood_cleansed_mission
+MSE: 25.3716036366
+R2: -0.0161572548973
+####################
+
+####################
+Column: neighbourhood_cleansed_nob_hill
+MSE: 25.3564756746
+R2: -0.0155513653961
+####################
+
+####################
+Column: neighbourhood_cleansed_noe_valley
+MSE: 25.3461098714
+R2: -0.0151362049554
+####################
+
+####################
+Column: neighbourhood_cleansed_north_beach
+MSE: 25.3394774819
+R2: -0.014870571342
+####################
+
+####################
+Column: neighbourhood_cleansed_ocean_view
+MSE: 25.3143108612
+R2: -0.0138626238539
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_mission
+MSE: 25.3466922229
+R2: -0.0151595286964
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_richmond
+MSE: 25.3268679625
+R2: -0.0143655479014
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_sunset
+MSE: 25.3308883885
+R2: -0.0145265698474
+####################
+
+####################
+Column: neighbourhood_cleansed_pacific_heights
+MSE: 25.3411930199
+R2: -0.0149392802972
+####################
+
+####################
+Column: neighbourhood_cleansed_potrero_hill
+MSE: 25.3050918274
+R2: -0.013493392637
+####################
+
+####################
+Column: neighbourhood_cleansed_russian_hill
+MSE: 25.3399103157
+R2: -0.0148879067558
+####################
+
+####################
+Column: neighbourhood_cleansed_seacliff
+MSE: 25.3408779302
+R2: -0.0149266606528
+####################
+
+####################
+Column: neighbourhood_cleansed_south_of_market
+MSE: 25.3355674584
+R2: -0.0147139711234
+####################
+
+####################
+Column: neighbourhood_cleansed_visitacion_valley
+MSE: 25.3304748156
+R2: -0.0145100058528
+####################
+
+####################
+Column: neighbourhood_cleansed_western_addition
+MSE: 25.3360129085
+R2: -0.0147318118307
+####################
+
+####################
+Column: property_type_apartment
+MSE: 25.3198515378
+R2: -0.0140845333088
+####################
+
+####################
+Column: property_type_bed_breakfast
+MSE: 25.2791011779
+R2: -0.0124524419977
+####################
+
+####################
+Column: property_type_boat
+MSE: 25.3565217687
+R2: -0.0155532115063
+####################
+
+####################
+Column: property_type_condominium
+MSE: 25.1669899362
+R2: -0.00796227837521
+####################
+
+####################
+Column: property_type_dorm
+MSE: 25.1777922275
+R2: -0.00839492058774
+####################
+
+####################
+Column: property_type_hostel
+MSE: 25.3254311985
+R2: -0.0143080041132
+####################
+
+####################
+Column: property_type_house
+MSE: 25.3638751941
+R2: -0.015847723303
+####################
+
+####################
+Column: property_type_in_law
+MSE: 25.339009235
+R2: -0.0148518176038
+####################
+
+####################
+Column: property_type_loft
+MSE: 25.3414440282
+R2: -0.014949333423
+####################
+
+####################
+Column: property_type_other
+MSE: 25.3479818336
+R2: -0.0152111788528
+####################
+
+####################
+Column: property_type_timeshare
+MSE: 25.3357868201
+R2: -0.0147227567715
+####################
+
+####################
+Column: property_type_townhouse
+MSE: 25.323948233
+R2: -0.0142486099121
+####################
+
+####################
+Column: cancellation_policy_flexible
+MSE: 25.2410767754
+R2: -0.010929527916
+####################
+
+####################
+Column: cancellation_policy_moderate
+MSE: 25.3463232739
+R2: -0.0151447519319
+####################
+
+####################
+Column: cancellation_policy_strict
+MSE: 25.3462385973
+R2: -0.0151413605502
+####################
+
+####################
+Column: cancellation_policy_super_strict_30
+MSE: 25.3010184986
+R2: -0.013330251881
+####################
+
+####################
+Column: cancellation_policy_super_strict_60
+MSE: 25.3328794131
+R2: -0.0146063123105
+####################
+
+####################
+Column: host_response_time_a_few_days_or_more
+MSE: 25.3422129728
+R2: -0.0149801303967
+####################
+
+####################
+Column: host_response_time_within_a_day
+MSE: 25.3695932797
+R2: -0.0160767381609
+####################
+
+####################
+Column: host_response_time_within_a_few_hours
+MSE: 25.3415999695
+R2: -0.0149555790245
+####################
+
+####################
+Column: host_response_time_within_an_hour
+MSE: 25.3195751899
+R2: -0.0140734653054
+####################
+
+####################
+Column: neighbourhood_cleansed_bernal_heights_by_property_type_in_law
+MSE: 25.3401162721
+R2: -0.0148961555071
+####################
+
+####################
+Column: neighbourhood_cleansed_bernal_heights_by_property_type_townhouse
+MSE: 25.3384680273
+R2: -0.0148301417124
+####################
+
+####################
+Column: neighbourhood_cleansed_bayview_by_property_type_apartment
+MSE: 25.329365933
+R2: -0.0144655940356
+####################
+
+####################
+Column: neighbourhood_cleansed_bayview_by_property_type_house
+MSE: 25.2988590009
+R2: -0.0132437619092
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_richmond_by_property_type_house
+MSE: 25.3278992087
+R2: -0.0144068503088
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_richmond_by_property_type_townhouse
+MSE: 25.3401458814
+R2: -0.0148973413876
+####################
+
+####################
+Column: neighbourhood_cleansed_north_beach_by_property_type_boat
+MSE: 25.3383342553
+R2: -0.0148247840124
+####################
+
+####################
+Column: neighbourhood_cleansed_north_beach_by_property_type_house
+MSE: 25.3351036394
+R2: -0.0146953947215
+####################
+
+####################
+Column: neighbourhood_cleansed_north_beach_by_property_type_other
+MSE: 25.3405090558
+R2: -0.0149118868755
+####################
+
+####################
+Column: neighbourhood_cleansed_parkside_by_property_type_house
+MSE: 25.3215141931
+R2: -0.0141511242612
+####################
+
+####################
+Column: neighbourhood_cleansed_pacific_heights_by_property_type_condominium
+MSE: 25.3293750859
+R2: -0.0144659606166
+####################
+
+####################
+Column: room_type_shared_room_by_bed_type_real_bed
+MSE: 25.2643447914
+R2: -0.011861434451
+####################
+
+####################
+Column: room_type_shared_room_by_property_type_apartment
+MSE: 25.3469004946
+R2: -0.0151678701791
+####################
+
+####################
+Column: room_type_shared_room_by_property_type_loft
+MSE: 25.3330365444
+R2: -0.0146126055676
+####################
+
+####################
+Column: room_type_shared_room_by_property_type_townhouse
+MSE: 25.3367677502
+R2: -0.0147620439682
+####################
+
+####################
+Column: neighbourhood_cleansed_inner_sunset_by_property_type_condominium
+MSE: 25.3247735387
+R2: -0.0142816642041
+####################
+
+####################
+Column: neighbourhood_cleansed_western_addition_by_property_type_apartment
+MSE: 25.3565599084
+R2: -0.0155547390411
+####################
+
+####################
+Column: neighbourhood_cleansed_western_addition_by_property_type_boutique_hotel
+MSE: 25.3392821396
+R2: -0.0148627476965
+####################
+
+####################
+Column: neighbourhood_cleansed_western_addition_by_property_type_other
+MSE: 25.3358312201
+R2: -0.0147245350317
+####################
+
+####################
+Column: neighbourhood_cleansed_south_of_market_by_property_type_boat
+MSE: 25.3468977347
+R2: -0.0151677596417
+####################
+
+####################
+Column: neighbourhood_cleansed_marina_by_property_type_apartment
+MSE: 25.3293143138
+R2: -0.0144635266351
+####################
+
+####################
+Column: neighbourhood_cleansed_marina_by_property_type_bed_breakfast
+MSE: 25.296523166
+R2: -0.0131502094643
+####################
+
+####################
+Column: neighbourhood_cleansed_nob_hill_by_property_type_condominium
+MSE: 25.3242392337
+R2: -0.0142602647724
+####################
+
+####################
+Column: neighbourhood_cleansed_mission_by_property_type_apartment
+MSE: 25.3714942933
+R2: -0.0161528755954
+####################
+
+####################
+Column: neighbourhood_cleansed_mission_by_property_type_bed_breakfast
+MSE: 25.3371972745
+R2: -0.0147792468306
+####################
+
+####################
+Column: neighbourhood_cleansed_mission_by_property_type_dorm
+MSE: 25.3412129539
+R2: -0.014940078675
+####################
+
+####################
+Column: neighbourhood_cleansed_mission_by_property_type_other
+MSE: 25.3383601249
+R2: -0.0148258201169
+####################
+
+####################
+Column: neighbourhood_cleansed_presidio_heights_by_property_type_apartment
+MSE: 25.3444260383
+R2: -0.0150687658123
+####################
+
+####################
+Column: neighbourhood_cleansed_presidio_heights_by_property_type_house
+MSE: 25.3222054262
+R2: -0.0141788088136
+####################
+
+####################
+Column: neighbourhood_cleansed_excelsior_by_property_type_in_law
+MSE: 25.3564217682
+R2: -0.0155492063902
+####################
+
+####################
+Column: neighbourhood_cleansed_downtown_civic_center_by_property_type_apartment
+MSE: 25.1811640427
+R2: -0.00852996504727
+####################
+
+####################
+Column: neighbourhood_cleansed_downtown_civic_center_by_property_type_house
+MSE: 25.3375418082
+R2: -0.0147930457407
+####################
+
+####################
+Column: neighbourhood_cleansed_downtown_civic_center_by_property_type_other
+MSE: 25.3325350204
+R2: -0.0145925190484
+####################
+
+####################
+Column: neighbourhood_cleansed_lakeshore_by_property_type_townhouse
+MSE: 25.3393846264
+R2: -0.01486685239
+####################
+
+####################
+Column: room_type_private_room_by_bed_type_couch
+MSE: 25.3391218643
+R2: -0.0148563285146
+####################
+
+####################
+Column: room_type_private_room_by_bed_type_futon
+MSE: 25.3365146389
+R2: -0.014751906615
+####################
+
+####################
+Column: room_type_private_room_by_bed_type_pull_out_sofa
+MSE: 25.3225436537
+R2: -0.0141923551541
+####################
+
+####################
+Column: room_type_private_room_by_bed_type_real_bed
+MSE: 25.2965459701
+R2: -0.013151122789
+####################
+
+####################
+Column: room_type_private_room_by_property_type_apartment
+MSE: 25.2979461174
+R2: -0.0132072000431
+####################
+
+####################
+Column: room_type_private_room_by_property_type_bed_breakfast
+MSE: 25.3304952505
+R2: -0.0145108242922
+####################
+
+####################
+Column: room_type_private_room_by_property_type_boutique_hotel
+MSE: 25.2563700138
+R2: -0.0115420368959
+####################
+
+####################
+Column: room_type_private_room_by_property_type_condominium
+MSE: 25.2693505355
+R2: -0.0120619193399
+####################
+
+####################
+Column: room_type_private_room_by_property_type_dorm
+MSE: 25.1815381636
+R2: -0.00854494895062
+####################
+
+####################
+Column: room_type_private_room_by_property_type_guesthouse
+MSE: 25.335728373
+R2: -0.0147204159065
+####################
+
+####################
+Column: room_type_private_room_by_property_type_house
+MSE: 25.3690517146
+R2: -0.0160550479551
+####################
+
+####################
+Column: room_type_private_room_by_property_type_in_law
+MSE: 25.3377835274
+R2: -0.0148027268262
+####################
+
+####################
+Column: room_type_private_room_by_property_type_loft
+MSE: 25.3520147659
+R2: -0.0153727016895
+####################
+
+####################
+Column: room_type_private_room_by_property_type_other
+MSE: 25.3282413148
+R2: -0.0144205519896
+####################
+
+####################
+Column: neighbourhood_cleansed_glen_park_by_property_type_condominium
+MSE: 25.3538805031
+R2: -0.0154474262661
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_sunset_by_property_type_house
+MSE: 25.3292160328
+R2: -0.0144595903867
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_sunset_by_property_type_in_law
+MSE: 25.3609729539
+R2: -0.015731485778
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_sunset_by_property_type_other
+MSE: 25.3529336863
+R2: -0.0154095053403
+####################
+
+####################
+Column: neighbourhood_cleansed_castro_upper_market_by_property_type_other
+MSE: 25.3380318959
+R2: -0.0148126742265
+####################
+
+####################
+Column: neighbourhood_cleansed_chinatown_by_property_type_apartment
+MSE: 25.3160145159
+R2: -0.0139308568723
+####################
+
+####################
+Column: neighbourhood_cleansed_chinatown_by_property_type_condominium
+MSE: 25.3366996
+R2: -0.0147593144859
+####################
+
+####################
+Column: neighbourhood_cleansed_chinatown_by_property_type_house
+MSE: 25.3428311333
+R2: -0.0150048883231
+####################
+
+####################
+Column: neighbourhood_cleansed_seacliff_by_property_type_apartment
+MSE: 25.3384842859
+R2: -0.0148307928846
+####################
+
+####################
+Column: room_type_entire_home_apt_by_bed_type_couch
+MSE: 25.3472682539
+R2: -0.0151825992934
+####################
+
+####################
+Column: room_type_entire_home_apt_by_bed_type_pull_out_sofa
+MSE: 25.3544970796
+R2: -0.0154721207522
+####################
+
+####################
+Column: room_type_entire_home_apt_by_bed_type_real_bed
+MSE: 25.2569766553
+R2: -0.0115663334779
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_apartment
+MSE: 25.3664610024
+R2: -0.0159512874259
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_condominium
+MSE: 25.2550851058
+R2: -0.0114905750909
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_house
+MSE: 25.3097944693
+R2: -0.0136817379913
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_in_law
+MSE: 25.3479808217
+R2: -0.0152111383249
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_loft
+MSE: 25.3189755926
+R2: -0.0140494508574
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_other
+MSE: 25.3433309399
+R2: -0.0150249060599
+####################
+
+####################
+Column: amenities_airconditioning
+MSE: 25.3575443805
+R2: -0.0155941680988
+####################
+
+####################
+Column: amenities_bathtub
+MSE: 25.271914725
+R2: -0.0121646176107
+####################
+
+####################
+Column: amenities_bedlinens
+MSE: 25.1549454659
+R2: -0.00747988569832
+####################
+
+####################
+Column: amenities_breakfast
+MSE: 25.3259677187
+R2: -0.0143294922676
+####################
+
+####################
+Column: amenities_buzzerwirelessintercom
+MSE: 25.3463336182
+R2: -0.0151451662326
+####################
+
+####################
+Column: amenities_cabletv
+MSE: 25.3015598088
+R2: -0.0133519318754
+####################
+
+####################
+Column: amenities_carbonmonoxidedetector
+MSE: 25.144103584
+R2: -0.00704565784546
+####################
+
+####################
+Column: amenities_cats
+MSE: 25.3598515983
+R2: -0.0156865744025
+####################
+
+####################
+Column: amenities_coffeemaker
+MSE: 25.1134982923
+R2: -0.00581988632172
+####################
+
+####################
+Column: amenities_cookingbasics
+MSE: 25.2119323213
+R2: -0.00976226435235
+####################
+
+####################
+Column: amenities_dishwasher
+MSE: 25.1352507858
+R2: -0.0066910947199
+####################
+
+####################
+Column: amenities_dogs
+MSE: 25.3203616234
+R2: -0.0141049627303
+####################
+
+####################
+Column: amenities_doorman
+MSE: 25.3168835069
+R2: -0.0139656607994
+####################
+
+####################
+Column: amenities_dryer
+MSE: 25.275475877
+R2: -0.012307245192
+####################
+
+####################
+Column: amenities_elevator
+MSE: 25.3250542425
+R2: -0.0142929066624
+####################
+
+####################
+Column: amenities_elevatorinbuilding
+MSE: 25.2928762919
+R2: -0.0130041486309
+####################
+
+####################
+Column: amenities_essentials
+MSE: 25.1291737823
+R2: -0.00644770485248
+####################
+
+####################
+Column: amenities_extrapillowsandblankets
+MSE: 25.2049927539
+R2: -0.00948432796606
+####################
+
+####################
+Column: amenities_familykidfriendly
+MSE: 25.3685767195
+R2: -0.0160360239438
+####################
+
+####################
+Column: amenities_fireextinguisher
+MSE: 25.1840733606
+R2: -0.00864648603941
+####################
+
+####################
+Column: amenities_firstaidkit
+MSE: 25.1653621259
+R2: -0.00789708300069
+####################
+
+####################
+Column: amenities_freeparkingonpremises
+MSE: 25.3194457405
+R2: -0.0140682807348
+####################
+
+####################
+Column: amenities_freestreetparking
+MSE: 25.2920010328
+R2: -0.0129690936556
+####################
+
+####################
+Column: amenities_gym
+MSE: 25.3601527895
+R2: -0.0156986374006
+####################
+
+####################
+Column: amenities_hairdryer
+MSE: 25.0913277294
+R2: -0.00493193384655
+####################
+
+####################
+Column: amenities_hangers
+MSE: 25.0934667988
+R2: -0.00501760564285
+####################
+
+####################
+Column: amenities_heating
+MSE: 25.2627017099
+R2: -0.0117956274479
+####################
+
+####################
+Column: amenities_hottub
+MSE: 25.3545430543
+R2: -0.0154739620849
+####################
+
+####################
+Column: amenities_hotwater
+MSE: 25.2125933173
+R2: -0.00978873787971
+####################
+
+####################
+Column: amenities_hourcheckin
+MSE: 25.3766656902
+R2: -0.0163599950387
+####################
+
+####################
+Column: amenities_indoorfireplace
+MSE: 25.2094941319
+R2: -0.00966461250829
+####################
+
+####################
+Column: amenities_internet
+MSE: 25.3769251407
+R2: -0.0163703862837
+####################
+
+####################
+Column: amenities_iron
+MSE: 25.0543590461
+R2: -0.00345130233683
+####################
+
+####################
+Column: amenities_keypad
+MSE: 25.2804024746
+R2: -0.0125045601885
+####################
+
+####################
+Column: amenities_kitchen
+MSE: 25.3408288342
+R2: -0.0149246943078
+####################
+
+####################
+Column: amenities_laptopfriendlyworkspace
+MSE: 25.0993947853
+R2: -0.00525502723096
+####################
+
+####################
+Column: amenities_lockbox
+MSE: 25.3218328717
+R2: -0.014163887645
+####################
+
+####################
+Column: amenities_lockonbedroomdoor
+MSE: 25.3620965519
+R2: -0.0157764869661
+####################
+
+####################
+Column: amenities_longtermstaysallowed
+MSE: 25.3055069996
+R2: -0.0135100206832
+####################
+
+####################
+Column: amenities_luggagedropoffallowed
+MSE: 25.1949124528
+R2: -0.00908060216421
+####################
+
+####################
+Column: amenities_nan
+MSE: 25.2683495844
+R2: -0.0120218302812
+####################
+
+####################
+Column: amenities_petsallowed
+MSE: 25.3276336593
+R2: -0.0143962147991
+####################
+
+####################
+Column: amenities_petsliveonthisproperty
+MSE: 25.3107121354
+R2: -0.013718491407
+####################
+
+####################
+Column: amenities_pool
+MSE: 25.3387975452
+R2: -0.0148433392209
+####################
+
+####################
+Column: amenities_privateentrance
+MSE: 25.1582757608
+R2: -0.00761326722901
+####################
+
+####################
+Column: amenities_privatelivingroom
+MSE: 25.2726497725
+R2: -0.012194056972
+####################
+
+####################
+Column: amenities_safetycard
+MSE: 25.2888825387
+R2: -0.0128441949512
+####################
+
+####################
+Column: amenities_selfcheckin
+MSE: 25.2406988936
+R2: -0.010914393383
+####################
+
+####################
+Column: amenities_shampoo
+MSE: 25.2456964435
+R2: -0.0111145500888
+####################
+
+####################
+Column: amenities_smartlock
+MSE: 25.3302870319
+R2: -0.0145024849339
+####################
+
+####################
+Column: amenities_smokedetector
+MSE: 25.1926498501
+R2: -0.0089899827363
+####################
+
+####################
+Column: amenities_smokingallowed
+MSE: 25.3047900781
+R2: -0.013481307285
+####################
+
+####################
+Column: amenities_suitableforevents
+MSE: 25.3241339504
+R2: -0.0142560480719
+####################
+
+####################
+Column: amenities_translationmissingenhostingamenity
+MSE: 25.3167212202
+R2: -0.0139591610634
+####################
+
+####################
+Column: amenities_tv
+MSE: 25.2311336689
+R2: -0.0105312968849
+####################
+
+####################
+Column: amenities_washer
+MSE: 25.2576069979
+R2: -0.0115915793077
+####################
+
+####################
+Column: amenities_wheelchairaccessible
+MSE: 25.3460307205
+R2: -0.0151330348848
+####################
+
+####################
+Column: amenities_wifi
+MSE: 25.1788882326
+R2: -0.00843881664939
+####################
+
+####################
+Column: amenities_wirelessinternet
+MSE: 25.3452556846
+R2: -0.0151019939497
+####################

@@ -1,0 +1,1820 @@
+####################
+Column: bathrooms
+Test: 
+MSE: 25.6134832698
+R2: -0.00862566183638
+Test: 
+MSE: 25.2307899054
+R2: -0.0105175288249
+####################
+
+####################
+Column: bedrooms
+Test: 
+MSE: 25.5809064834
+R2: -0.00734283035639
+Test: 
+MSE: 25.2228682507
+R2: -0.0102002588979
+####################
+
+####################
+Column: beds
+Test: 
+MSE: 25.669093702
+R2: -0.0108155283371
+Test: 
+MSE: 25.3463008587
+R2: -0.015143854179
+####################
+
+####################
+Column: cleaning_fee
+Test: 
+MSE: 24.7636957731
+R2: 0.0248378646649
+Test: 
+MSE: 24.6344539062
+R2: 0.0133663044806
+####################
+
+####################
+Column: guests_included
+Test: 
+MSE: 25.6851422672
+R2: -0.011447499965
+Test: 
+MSE: 25.3483468043
+R2: -0.0152257962809
+####################
+
+####################
+Column: host_listings_count
+Test: 
+MSE: 24.2951753911
+R2: 0.0432875880182
+Test: 
+MSE: 24.2010876577
+R2: 0.0307230417125
+####################
+
+####################
+Column: host_acceptance_rate
+Test: 
+MSE: 25.4131517606
+R2: -0.000736867529167
+Test: 
+MSE: 25.6744575409
+R2: -0.0282868465666
+####################
+
+####################
+Column: host_response_rate
+Test: 
+MSE: 24.9726185278
+R2: 0.0166107582823
+Test: 
+MSE: 24.9332303038
+R2: 0.00140002090099
+####################
+
+####################
+Column: host_has_profile_pic
+Test: 
+MSE: 25.7012634049
+R2: -0.0120823294054
+Test: 
+MSE: 25.3351316743
+R2: -0.0146965175488
+####################
+
+####################
+Column: host_identity_verified
+Test: 
+MSE: 25.7012742766
+R2: -0.0120827575164
+Test: 
+MSE: 25.335172656
+R2: -0.0146981589048
+####################
+
+####################
+Column: days_delta
+Test: 
+MSE: 23.9169737649
+R2: 0.0581806762203
+Test: 
+MSE: 25.5358294485
+R2: -0.022734657438
+####################
+
+####################
+Column: bed_type_pull_out_sofa
+Test: 
+MSE: 25.6986420775
+R2: -0.0119791049397
+Test: 
+MSE: 25.3429941097
+R2: -0.0150114156848
+####################
+
+####################
+Column: neighbourhood_cleansed_bernal_heights
+Test: 
+MSE: 25.6667789958
+R2: -0.0107243782205
+Test: 
+MSE: 25.2993778937
+R2: -0.0132645440666
+####################
+
+####################
+Column: neighbourhood_cleansed_excelsior
+Test: 
+MSE: 25.6487443864
+R2: -0.0100141987541
+Test: 
+MSE: 25.2993520734
+R2: -0.0132635099413
+####################
+
+####################
+Column: neighbourhood_cleansed_financial_district
+Test: 
+MSE: 25.6807687056
+R2: -0.0112752747983
+Test: 
+MSE: 25.3454214629
+R2: -0.0151086335288
+####################
+
+####################
+Column: neighbourhood_cleansed_glen_park
+Test: 
+MSE: 25.6838498305
+R2: -0.0113966054878
+Test: 
+MSE: 25.3309194397
+R2: -0.0145278134778
+####################
+
+####################
+Column: neighbourhood_cleansed_golden_gate_park
+Test: 
+MSE: 25.6891469815
+R2: -0.011605200408
+Test: 
+MSE: 25.3437676585
+R2: -0.0150423970654
+####################
+
+####################
+Column: neighbourhood_cleansed_haight_ashbury
+Test: 
+MSE: 25.6997331658
+R2: -0.01202207058
+Test: 
+MSE: 25.338267512
+R2: -0.0148221108808
+####################
+
+####################
+Column: neighbourhood_cleansed_inner_richmond
+Test: 
+MSE: 25.7000515953
+R2: -0.012034609919
+Test: 
+MSE: 25.3428658391
+R2: -0.015006278323
+####################
+
+####################
+Column: neighbourhood_cleansed_lakeshore
+Test: 
+MSE: 25.6839667843
+R2: -0.0114012109776
+Test: 
+MSE: 25.3377687207
+R2: -0.0148021338068
+####################
+
+####################
+Column: neighbourhood_cleansed_marina
+Test: 
+MSE: 25.7001545174
+R2: -0.0120386628549
+Test: 
+MSE: 25.3453104861
+R2: -0.0151041888028
+####################
+
+####################
+Column: neighbourhood_cleansed_mission
+Test: 
+MSE: 25.6783230614
+R2: -0.0111789685083
+Test: 
+MSE: 25.3274239914
+R2: -0.0143878173968
+####################
+
+####################
+Column: neighbourhood_cleansed_nob_hill
+Test: 
+MSE: 25.6825045306
+R2: -0.0113436293281
+Test: 
+MSE: 25.3514792702
+R2: -0.0153512545696
+####################
+
+####################
+Column: neighbourhood_cleansed_noe_valley
+Test: 
+MSE: 25.660658286
+R2: -0.0104833526286
+Test: 
+MSE: 25.3238548672
+R2: -0.0142448705218
+####################
+
+####################
+Column: neighbourhood_cleansed_north_beach
+Test: 
+MSE: 25.6896014121
+R2: -0.0116230952916
+Test: 
+MSE: 25.3391060142
+R2: -0.014855693704
+####################
+
+####################
+Column: neighbourhood_cleansed_ocean_view
+Test: 
+MSE: 25.6639906501
+R2: -0.0106145767915
+Test: 
+MSE: 25.3198451057
+R2: -0.0140842756965
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_mission
+Test: 
+MSE: 25.6966400083
+R2: -0.0119002660587
+Test: 
+MSE: 25.3842761257
+R2: -0.0166648003381
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_richmond
+Test: 
+MSE: 25.6869861997
+R2: -0.0115201116299
+Test: 
+MSE: 25.3179020777
+R2: -0.0140064555452
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_sunset
+Test: 
+MSE: 25.6920604004
+R2: -0.0117199270545
+Test: 
+MSE: 25.3315643562
+R2: -0.0145536430082
+####################
+
+####################
+Column: neighbourhood_cleansed_pacific_heights
+Test: 
+MSE: 25.6986636363
+R2: -0.0119799538976
+Test: 
+MSE: 25.332868057
+R2: -0.0146058574857
+####################
+
+####################
+Column: neighbourhood_cleansed_potrero_hill
+Test: 
+MSE: 25.6707551775
+R2: -0.0108809550825
+Test: 
+MSE: 25.3120775932
+R2: -0.0137731793088
+####################
+
+####################
+Column: neighbourhood_cleansed_russian_hill
+Test: 
+MSE: 25.6835692269
+R2: -0.011385555684
+Test: 
+MSE: 25.3402001176
+R2: -0.0148995136024
+####################
+
+####################
+Column: neighbourhood_cleansed_seacliff
+Test: 
+MSE: 25.700325252
+R2: -0.0120453861633
+Test: 
+MSE: 25.3412761779
+R2: -0.0149426108559
+####################
+
+####################
+Column: neighbourhood_cleansed_south_of_market
+Test: 
+MSE: 25.6641595194
+R2: -0.0106212266437
+Test: 
+MSE: 25.3342346395
+R2: -0.0146605904365
+####################
+
+####################
+Column: neighbourhood_cleansed_visitacion_valley
+Test: 
+MSE: 25.6951256339
+R2: -0.0118406319627
+Test: 
+MSE: 25.3318774989
+R2: -0.0145661846759
+####################
+
+####################
+Column: neighbourhood_cleansed_western_addition
+Test: 
+MSE: 25.6918822053
+R2: -0.0117129099632
+Test: 
+MSE: 25.3534707449
+R2: -0.015431015055
+####################
+
+####################
+Column: property_type_apartment
+Test: 
+MSE: 25.6471495307
+R2: -0.00995139541061
+Test: 
+MSE: 25.3303820793
+R2: -0.0145062916775
+####################
+
+####################
+Column: property_type_bed_breakfast
+Test: 
+MSE: 25.6512522018
+R2: -0.0101129532631
+Test: 
+MSE: 25.2778136124
+R2: -0.0124008737526
+####################
+
+####################
+Column: property_type_boat
+Test: 
+MSE: 25.7015108671
+R2: -0.0120920741423
+Test: 
+MSE: 25.3379267913
+R2: -0.0148084646837
+####################
+
+####################
+Column: property_type_condominium
+Test: 
+MSE: 25.5521203019
+R2: -0.00620926796068
+Test: 
+MSE: 25.1514736388
+R2: -0.00734083566707
+####################
+
+####################
+Column: property_type_dorm
+Test: 
+MSE: 25.5230931528
+R2: -0.00506621657902
+Test: 
+MSE: 25.1761339184
+R2: -0.00832850370413
+####################
+
+####################
+Column: property_type_hostel
+Test: 
+MSE: 25.6853938706
+R2: -0.0114574077815
+Test: 
+MSE: 25.3599260518
+R2: -0.0156895563393
+####################
+
+####################
+Column: property_type_house
+Test: 
+MSE: 25.669231288
+R2: -0.0108209462973
+Test: 
+MSE: 25.3634404619
+R2: -0.0158303118608
+####################
+
+####################
+Column: property_type_in_law
+Test: 
+MSE: 25.6949002648
+R2: -0.0118317572215
+Test: 
+MSE: 25.3407358387
+R2: -0.0149209697484
+####################
+
+####################
+Column: property_type_loft
+Test: 
+MSE: 25.7003711836
+R2: -0.0120471948901
+Test: 
+MSE: 25.3426516657
+R2: -0.0149977004735
+####################
+
+####################
+Column: property_type_other
+Test: 
+MSE: 25.6908294507
+R2: -0.011671453857
+Test: 
+MSE: 25.3511947981
+R2: -0.015339861184
+####################
+
+####################
+Column: property_type_timeshare
+Test: 
+MSE: 25.6949223238
+R2: -0.0118326258757
+Test: 
+MSE: 25.3380800686
+R2: -0.0148146035879
+####################
+
+####################
+Column: property_type_townhouse
+Test: 
+MSE: 25.6908288339
+R2: -0.0116714295691
+Test: 
+MSE: 25.3401761798
+R2: -0.01489855487
+####################
+
+####################
+Column: cancellation_policy_flexible
+Test: 
+MSE: 25.7016761215
+R2: -0.0120985816472
+Test: 
+MSE: 25.2838275095
+R2: -0.0126417361446
+####################
+
+####################
+Column: cancellation_policy_moderate
+Test: 
+MSE: 25.6863190006
+R2: -0.011493838196
+Test: 
+MSE: 25.3494565
+R2: -0.0152702406668
+####################
+
+####################
+Column: cancellation_policy_strict
+Test: 
+MSE: 25.6941104703
+R2: -0.0118006561395
+Test: 
+MSE: 25.3492537829
+R2: -0.0152621216502
+####################
+
+####################
+Column: cancellation_policy_super_strict_30
+Test: 
+MSE: 25.6578455014
+R2: -0.0103725888263
+Test: 
+MSE: 25.3007771694
+R2: -0.0133205864133
+####################
+
+####################
+Column: cancellation_policy_super_strict_60
+Test: 
+MSE: 25.6912763013
+R2: -0.0116890502522
+Test: 
+MSE: 25.3317446944
+R2: -0.0145608657298
+####################
+
+####################
+Column: host_response_time_a_few_days_or_more
+Test: 
+MSE: 25.6898127892
+R2: -0.0116314190497
+Test: 
+MSE: 25.3270025629
+R2: -0.0143709387753
+####################
+
+####################
+Column: host_response_time_within_a_day
+Test: 
+MSE: 25.6949833851
+R2: -0.0118350303896
+Test: 
+MSE: 25.3664780104
+R2: -0.0159519686149
+####################
+
+####################
+Column: host_response_time_within_a_few_hours
+Test: 
+MSE: 25.696962954
+R2: -0.0119129832392
+Test: 
+MSE: 25.3541446969
+R2: -0.0154580074854
+####################
+
+####################
+Column: host_response_time_within_an_hour
+Test: 
+MSE: 25.6636485712
+R2: -0.0106011061689
+Test: 
+MSE: 25.3236604828
+R2: -0.0142370852383
+####################
+
+####################
+Column: neighbourhood_cleansed_bernal_heights_by_property_type_in_law
+Test: 
+MSE: 25.701293502
+R2: -0.0120835145882
+Test: 
+MSE: 25.3404271991
+R2: -0.0149086084359
+####################
+
+####################
+Column: neighbourhood_cleansed_bernal_heights_by_property_type_townhouse
+Test: 
+MSE: 25.7022754671
+R2: -0.0121221830977
+Test: 
+MSE: 25.3379557479
+R2: -0.0148096244235
+####################
+
+####################
+Column: neighbourhood_cleansed_bayview_by_property_type_apartment
+Test: 
+MSE: 25.6789953798
+R2: -0.0112054435322
+Test: 
+MSE: 25.330556661
+R2: -0.0145132838409
+####################
+
+####################
+Column: neighbourhood_cleansed_bayview_by_property_type_house
+Test: 
+MSE: 25.6651199348
+R2: -0.010659046555
+Test: 
+MSE: 25.2895075436
+R2: -0.0128692270044
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_richmond_by_property_type_house
+Test: 
+MSE: 25.6891436408
+R2: -0.0116050688531
+Test: 
+MSE: 25.3407408515
+R2: -0.0149211705156
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_richmond_by_property_type_townhouse
+Test: 
+MSE: 25.6964411214
+R2: -0.0118924341512
+Test: 
+MSE: 25.3341838555
+R2: -0.0146585564874
+####################
+
+####################
+Column: neighbourhood_cleansed_north_beach_by_property_type_boat
+Test: 
+MSE: 25.7027169846
+R2: -0.0121395694827
+Test: 
+MSE: 25.3372297096
+R2: -0.0147805458889
+####################
+
+####################
+Column: neighbourhood_cleansed_north_beach_by_property_type_house
+Test: 
+MSE: 25.6989458131
+R2: -0.0119910656526
+Test: 
+MSE: 25.3493819063
+R2: -0.0152672531168
+####################
+
+####################
+Column: neighbourhood_cleansed_north_beach_by_property_type_other
+Test: 
+MSE: 25.6869653633
+R2: -0.0115192911214
+Test: 
+MSE: 25.3368567477
+R2: -0.0147656084063
+####################
+
+####################
+Column: neighbourhood_cleansed_parkside_by_property_type_house
+Test: 
+MSE: 25.6863246951
+R2: -0.011494062439
+Test: 
+MSE: 25.3204677506
+R2: -0.0141092132252
+####################
+
+####################
+Column: neighbourhood_cleansed_pacific_heights_by_property_type_condominium
+Test: 
+MSE: 25.6920743264
+R2: -0.0117204754434
+Test: 
+MSE: 25.3301395283
+R2: -0.014496577274
+####################
+
+####################
+Column: room_type_shared_room_by_bed_type_real_bed
+Test: 
+MSE: 25.6486356544
+R2: -0.0100099170303
+Test: 
+MSE: 25.281627539
+R2: -0.0125536252
+####################
+
+####################
+Column: room_type_shared_room_by_property_type_apartment
+Test: 
+MSE: 25.7004750524
+R2: -0.0120512851058
+Test: 
+MSE: 25.3717054664
+R2: -0.0161613332798
+####################
+
+####################
+Column: room_type_shared_room_by_property_type_loft
+Test: 
+MSE: 25.6821417713
+R2: -0.0113293443399
+Test: 
+MSE: 25.3340016492
+R2: -0.0146512589486
+####################
+
+####################
+Column: room_type_shared_room_by_property_type_townhouse
+Test: 
+MSE: 25.7024504452
+R2: -0.0121290735062
+Test: 
+MSE: 25.3382065455
+R2: -0.0148196691112
+####################
+
+####################
+Column: neighbourhood_cleansed_inner_sunset_by_property_type_condominium
+Test: 
+MSE: 25.6900281575
+R2: -0.0116398999727
+Test: 
+MSE: 25.3236134203
+R2: -0.0142352003408
+####################
+
+####################
+Column: neighbourhood_cleansed_western_addition_by_property_type_apartment
+Test: 
+MSE: 25.6998515581
+R2: -0.0120267327126
+Test: 
+MSE: 25.3512765629
+R2: -0.0153431359443
+####################
+
+####################
+Column: neighbourhood_cleansed_western_addition_by_property_type_boutique_hotel
+Test: 
+MSE: 25.7022760135
+R2: -0.0121222046122
+Test: 
+MSE: 25.3381959245
+R2: -0.0148192437301
+####################
+
+####################
+Column: neighbourhood_cleansed_western_addition_by_property_type_other
+Test: 
+MSE: 25.7012207245
+R2: -0.0120806487049
+Test: 
+MSE: 25.3373770793
+R2: -0.0147864481892
+####################
+
+####################
+Column: neighbourhood_cleansed_south_of_market_by_property_type_boat
+Test: 
+MSE: 25.7006878142
+R2: -0.0120596633915
+Test: 
+MSE: 25.3607896904
+R2: -0.015724145899
+####################
+
+####################
+Column: neighbourhood_cleansed_marina_by_property_type_apartment
+Test: 
+MSE: 25.6928988804
+R2: -0.0117529453049
+Test: 
+MSE: 25.3499681813
+R2: -0.015290733995
+####################
+
+####################
+Column: neighbourhood_cleansed_marina_by_property_type_bed_breakfast
+Test: 
+MSE: 25.6495518071
+R2: -0.0100459939301
+Test: 
+MSE: 25.2843642215
+R2: -0.0126632319794
+####################
+
+####################
+Column: neighbourhood_cleansed_nob_hill_by_property_type_condominium
+Test: 
+MSE: 25.6851495392
+R2: -0.0114477863281
+Test: 
+MSE: 25.324557286
+R2: -0.014273003073
+####################
+
+####################
+Column: neighbourhood_cleansed_mission_by_property_type_apartment
+Test: 
+MSE: 25.6933464165
+R2: -0.0117705686955
+Test: 
+MSE: 25.3459665915
+R2: -0.0151304664558
+####################
+
+####################
+Column: neighbourhood_cleansed_mission_by_property_type_bed_breakfast
+Test: 
+MSE: 25.7017156745
+R2: -0.0121001391907
+Test: 
+MSE: 25.3398234954
+R2: -0.0148844295194
+####################
+
+####################
+Column: neighbourhood_cleansed_mission_by_property_type_dorm
+Test: 
+MSE: 25.7023588737
+R2: -0.0121254675413
+Test: 
+MSE: 25.3524510955
+R2: -0.0153901771091
+####################
+
+####################
+Column: neighbourhood_cleansed_mission_by_property_type_other
+Test: 
+MSE: 25.6947493019
+R2: -0.011825812497
+Test: 
+MSE: 25.3388539286
+R2: -0.0148455974306
+####################
+
+####################
+Column: neighbourhood_cleansed_presidio_heights_by_property_type_apartment
+Test: 
+MSE: 25.6992659507
+R2: -0.0120036722562
+Test: 
+MSE: 25.3351490255
+R2: -0.0146972124806
+####################
+
+####################
+Column: neighbourhood_cleansed_presidio_heights_by_property_type_house
+Test: 
+MSE: 25.6957425964
+R2: -0.0118649271435
+Test: 
+MSE: 25.3239932282
+R2: -0.0142504120124
+####################
+
+####################
+Column: neighbourhood_cleansed_excelsior_by_property_type_in_law
+Test: 
+MSE: 25.7007430989
+R2: -0.0120618404296
+Test: 
+MSE: 25.3359981975
+R2: -0.0147312226387
+####################
+
+####################
+Column: neighbourhood_cleansed_downtown_civic_center_by_property_type_apartment
+Test: 
+MSE: 25.5277607912
+R2: -0.00525002210954
+Test: 
+MSE: 25.1966751979
+R2: -0.00915120180814
+####################
+
+####################
+Column: neighbourhood_cleansed_downtown_civic_center_by_property_type_house
+Test: 
+MSE: 25.7003125979
+R2: -0.0120448878609
+Test: 
+MSE: 25.3371653483
+R2: -0.0147779681589
+####################
+
+####################
+Column: neighbourhood_cleansed_downtown_civic_center_by_property_type_other
+Test: 
+MSE: 25.6953298376
+R2: -0.0118486732403
+Test: 
+MSE: 25.3311395717
+R2: -0.0145366299783
+####################
+
+####################
+Column: neighbourhood_cleansed_lakeshore_by_property_type_townhouse
+Test: 
+MSE: 25.7016672741
+R2: -0.0120982332475
+Test: 
+MSE: 25.3427939803
+R2: -0.01500340031
+####################
+
+####################
+Column: room_type_private_room_by_bed_type_couch
+Test: 
+MSE: 25.7006417228
+R2: -0.0120578483729
+Test: 
+MSE: 25.341238642
+R2: -0.014941107508
+####################
+
+####################
+Column: room_type_private_room_by_bed_type_futon
+Test: 
+MSE: 25.7015148617
+R2: -0.012092231444
+Test: 
+MSE: 25.3280844307
+R2: -0.0144142686283
+####################
+
+####################
+Column: room_type_private_room_by_bed_type_pull_out_sofa
+Test: 
+MSE: 25.6954500006
+R2: -0.011853405102
+Test: 
+MSE: 25.32843307
+R2: -0.0144282319678
+####################
+
+####################
+Column: room_type_private_room_by_bed_type_real_bed
+Test: 
+MSE: 25.645104093
+R2: -0.00987084873446
+Test: 
+MSE: 25.2926356661
+R2: -0.0129945113345
+####################
+
+####################
+Column: room_type_private_room_by_property_type_apartment
+Test: 
+MSE: 25.637315307
+R2: -0.0095641364694
+Test: 
+MSE: 25.2918792542
+R2: -0.0129642163069
+####################
+
+####################
+Column: room_type_private_room_by_property_type_bed_breakfast
+Test: 
+MSE: 25.6957114301
+R2: -0.0118636998575
+Test: 
+MSE: 25.3464398005
+R2: -0.0151494189359
+####################
+
+####################
+Column: room_type_private_room_by_property_type_boutique_hotel
+Test: 
+MSE: 25.6099053829
+R2: -0.00848476930532
+Test: 
+MSE: 25.258649583
+R2: -0.0116333358468
+####################
+
+####################
+Column: room_type_private_room_by_property_type_condominium
+Test: 
+MSE: 25.6372504289
+R2: -0.00956158165424
+Test: 
+MSE: 25.2655590353
+R2: -0.0119100660912
+####################
+
+####################
+Column: room_type_private_room_by_property_type_dorm
+Test: 
+MSE: 25.5276275401
+R2: -0.00524477485405
+Test: 
+MSE: 25.1836485734
+R2: -0.00862947290452
+####################
+
+####################
+Column: room_type_private_room_by_property_type_guesthouse
+Test: 
+MSE: 25.6934901104
+R2: -0.0117762271733
+Test: 
+MSE: 25.3317128251
+R2: -0.0145595893308
+####################
+
+####################
+Column: room_type_private_room_by_property_type_house
+Test: 
+MSE: 25.6997659602
+R2: -0.0120233619808
+Test: 
+MSE: 25.3683244719
+R2: -0.0160259211816
+####################
+
+####################
+Column: room_type_private_room_by_property_type_in_law
+Test: 
+MSE: 25.7017682607
+R2: -0.012102209967
+Test: 
+MSE: 25.338546438
+R2: -0.0148332821366
+####################
+
+####################
+Column: room_type_private_room_by_property_type_loft
+Test: 
+MSE: 25.6990930847
+R2: -0.0119968650155
+Test: 
+MSE: 25.3452800728
+R2: -0.0151029707203
+####################
+
+####################
+Column: room_type_private_room_by_property_type_other
+Test: 
+MSE: 25.6812861668
+R2: -0.0112956517457
+Test: 
+MSE: 25.3296918663
+R2: -0.0144786479771
+####################
+
+####################
+Column: neighbourhood_cleansed_glen_park_by_property_type_condominium
+Test: 
+MSE: 25.6969094138
+R2: -0.0119108748957
+Test: 
+MSE: 25.3539624623
+R2: -0.0154507088144
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_sunset_by_property_type_house
+Test: 
+MSE: 25.6924532392
+R2: -0.0117353965376
+Test: 
+MSE: 25.3360714713
+R2: -0.0147341573249
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_sunset_by_property_type_in_law
+Test: 
+MSE: 25.6983456048
+R2: -0.0119674302284
+Test: 
+MSE: 25.3393879293
+R2: -0.0148669846731
+####################
+
+####################
+Column: neighbourhood_cleansed_outer_sunset_by_property_type_other
+Test: 
+MSE: 25.6994799037
+R2: -0.0120120974464
+Test: 
+MSE: 25.3412519055
+R2: -0.0149416387237
+####################
+
+####################
+Column: neighbourhood_cleansed_castro_upper_market_by_property_type_other
+Test: 
+MSE: 25.7003220582
+R2: -0.0120452603946
+Test: 
+MSE: 25.3456729911
+R2: -0.0151187074771
+####################
+
+####################
+Column: neighbourhood_cleansed_chinatown_by_property_type_apartment
+Test: 
+MSE: 25.6577813391
+R2: -0.010370062198
+Test: 
+MSE: 25.3146050857
+R2: -0.0138744078309
+####################
+
+####################
+Column: neighbourhood_cleansed_chinatown_by_property_type_condominium
+Test: 
+MSE: 25.6944310924
+R2: -0.011813281822
+Test: 
+MSE: 25.3426560395
+R2: -0.0149978756463
+####################
+
+####################
+Column: neighbourhood_cleansed_chinatown_by_property_type_house
+Test: 
+MSE: 25.6980880115
+R2: -0.0119572865414
+Test: 
+MSE: 25.3436677901
+R2: -0.0150383972392
+####################
+
+####################
+Column: neighbourhood_cleansed_seacliff_by_property_type_apartment
+Test: 
+MSE: 25.7006460916
+R2: -0.0120580204095
+Test: 
+MSE: 25.3385795321
+R2: -0.0148346075848
+####################
+
+####################
+Column: room_type_entire_home_apt_by_bed_type_couch
+Test: 
+MSE: 25.6994502048
+R2: -0.0120109279416
+Test: 
+MSE: 25.3566228834
+R2: -0.01555726125
+####################
+
+####################
+Column: room_type_entire_home_apt_by_bed_type_pull_out_sofa
+Test: 
+MSE: 25.7017406943
+R2: -0.012101124441
+Test: 
+MSE: 25.3363291834
+R2: -0.0147444789426
+####################
+
+####################
+Column: room_type_entire_home_apt_by_bed_type_real_bed
+Test: 
+MSE: 25.6050066869
+R2: -0.00829186502544
+Test: 
+MSE: 25.2552561085
+R2: -0.0114974239141
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_apartment
+Test: 
+MSE: 25.6984742376
+R2: -0.0119724956229
+Test: 
+MSE: 25.3728231666
+R2: -0.0162060982538
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_condominium
+Test: 
+MSE: 25.6194853532
+R2: -0.0088620160781
+Test: 
+MSE: 25.2553001252
+R2: -0.0114991868231
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_house
+Test: 
+MSE: 25.6242754666
+R2: -0.00905064451435
+Test: 
+MSE: 25.3066410893
+R2: -0.0135554420739
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_in_law
+Test: 
+MSE: 25.6955475855
+R2: -0.0118572478695
+Test: 
+MSE: 25.3557814355
+R2: -0.0155235604473
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_loft
+Test: 
+MSE: 25.6860128932
+R2: -0.0114817840855
+Test: 
+MSE: 25.3171734477
+R2: -0.0139772732087
+####################
+
+####################
+Column: room_type_entire_home_apt_by_property_type_other
+Test: 
+MSE: 25.6955946807
+R2: -0.0118591024172
+Test: 
+MSE: 25.3469782955
+R2: -0.0151709861815
+####################
+
+####################
+Column: amenities_airconditioning
+Test: 
+MSE: 25.6981789281
+R2: -0.0119608667184
+Test: 
+MSE: 25.3588911061
+R2: -0.0156481057615
+####################
+
+####################
+Column: amenities_bathtub
+Test: 
+MSE: 25.6155248685
+R2: -0.00870605734023
+Test: 
+MSE: 25.2439790114
+R2: -0.01104576527
+####################
+
+####################
+Column: amenities_bedlinens
+Test: 
+MSE: 25.4894983257
+R2: -0.00374329597646
+Test: 
+MSE: 25.1711472479
+R2: -0.00812878272854
+####################
+
+####################
+Column: amenities_breakfast
+Test: 
+MSE: 25.6741540903
+R2: -0.0110147998494
+Test: 
+MSE: 25.3235985548
+R2: -0.0142346049601
+####################
+
+####################
+Column: amenities_buzzerwirelessintercom
+Test: 
+MSE: 25.6923813735
+R2: -0.0117325665597
+Test: 
+MSE: 25.3400068836
+R2: -0.0148917743928
+####################
+
+####################
+Column: amenities_cabletv
+Test: 
+MSE: 25.6047158966
+R2: -0.00828041408506
+Test: 
+MSE: 25.2889514775
+R2: -0.012846956019
+####################
+
+####################
+Column: amenities_carbonmonoxidedetector
+Test: 
+MSE: 25.4880479273
+R2: -0.00368618117426
+Test: 
+MSE: 25.1491271054
+R2: -0.00724685473274
+####################
+
+####################
+Column: amenities_cats
+Test: 
+MSE: 25.6984141564
+R2: -0.0119701297037
+Test: 
+MSE: 25.3468617582
+R2: -0.0151663187466
+####################
+
+####################
+Column: amenities_coffeemaker
+Test: 
+MSE: 25.4655193705
+R2: -0.00279903590601
+Test: 
+MSE: 25.1284368753
+R2: -0.00641819101661
+####################
+
+####################
+Column: amenities_cookingbasics
+Test: 
+MSE: 25.5580655733
+R2: -0.00644338501873
+Test: 
+MSE: 25.2259072298
+R2: -0.0103219729464
+####################
+
+####################
+Column: amenities_dishwasher
+Test: 
+MSE: 25.4910135906
+R2: -0.00380296513633
+Test: 
+MSE: 25.1451282993
+R2: -0.0070866986846
+####################
+
+####################
+Column: amenities_dogs
+Test: 
+MSE: 25.6477069227
+R2: -0.00997334478412
+Test: 
+MSE: 25.3180931349
+R2: -0.0140141075726
+####################
+
+####################
+Column: amenities_doorman
+Test: 
+MSE: 25.6876487757
+R2: -0.0115462030125
+Test: 
+MSE: 25.3188974901
+R2: -0.0140463227755
+####################
+
+####################
+Column: amenities_dryer
+Test: 
+MSE: 25.5824340153
+R2: -0.00740298257279
+Test: 
+MSE: 25.2689710333
+R2: -0.0120467199104
+####################
+
+####################
+Column: amenities_elevator
+Test: 
+MSE: 25.6798106294
+R2: -0.0112375470021
+Test: 
+MSE: 25.3453651127
+R2: -0.0151063766492
+####################
+
+####################
+Column: amenities_elevatorinbuilding
+Test: 
+MSE: 25.661053444
+R2: -0.010498913434
+Test: 
+MSE: 25.3197373296
+R2: -0.014079959157
+####################
+
+####################
+Column: amenities_essentials
+Test: 
+MSE: 25.45239332
+R2: -0.00228214910532
+Test: 
+MSE: 25.1446576073
+R2: -0.00706784701537
+####################
+
+####################
+Column: amenities_extrapillowsandblankets
+Test: 
+MSE: 25.4603408845
+R2: -0.00259511385888
+Test: 
+MSE: 25.1577592504
+R2: -0.0075925804849
+####################
+
+####################
+Column: amenities_familykidfriendly
+Test: 
+MSE: 25.6945369024
+R2: -0.0118174484822
+Test: 
+MSE: 25.3555585509
+R2: -0.0155146337032
+####################
+
+####################
+Column: amenities_fireextinguisher
+Test: 
+MSE: 25.5298328534
+R2: -0.00533161722307
+Test: 
+MSE: 25.1572371763
+R2: -0.00757167091337
+####################
+
+####################
+Column: amenities_firstaidkit
+Test: 
+MSE: 25.4435144646
+R2: -0.00193251132678
+Test: 
+MSE: 25.1627992423
+R2: -0.00779443703406
+####################
+
+####################
+Column: amenities_freeparkingonpremises
+Test: 
+MSE: 25.6631721637
+R2: -0.0105823458618
+Test: 
+MSE: 25.3244690528
+R2: -0.014269469249
+####################
+
+####################
+Column: amenities_freestreetparking
+Test: 
+MSE: 25.6576206774
+R2: -0.0103637355494
+Test: 
+MSE: 25.2938762489
+R2: -0.0130441978728
+####################
+
+####################
+Column: amenities_gym
+Test: 
+MSE: 25.6955699359
+R2: -0.011858127999
+Test: 
+MSE: 25.3586350624
+R2: -0.0156378509632
+####################
+
+####################
+Column: amenities_hairdryer
+Test: 
+MSE: 25.3584259211
+R2: 0.00141816486262
+Test: 
+MSE: 25.0805887756
+R2: -0.0045018283608
+####################
+
+####################
+Column: amenities_hangers
+Test: 
+MSE: 25.4216077994
+R2: -0.00106985533907
+Test: 
+MSE: 25.0927565894
+R2: -0.00498916106871
+####################
+
+####################
+Column: amenities_heating
+Test: 
+MSE: 25.6157650362
+R2: -0.00871551483059
+Test: 
+MSE: 25.2522340428
+R2: -0.0113763872613
+####################
+
+####################
+Column: amenities_hottub
+Test: 
+MSE: 25.6977236755
+R2: -0.0119429394623
+Test: 
+MSE: 25.3501887367
+R2: -0.0152995674536
+####################
+
+####################
+Column: amenities_hotwater
+Test: 
+MSE: 25.5233053509
+R2: -0.00507457266309
+Test: 
+MSE: 25.2040570211
+R2: -0.00944685096299
+####################
+
+####################
+Column: amenities_hourcheckin
+Test: 
+MSE: 25.7011672756
+R2: -0.0120785439559
+Test: 
+MSE: 25.380015166
+R2: -0.0164941447822
+####################
+
+####################
+Column: amenities_indoorfireplace
+Test: 
+MSE: 25.542048556
+R2: -0.00581265570748
+Test: 
+MSE: 25.1945227237
+R2: -0.00906499313407
+####################
+
+####################
+Column: amenities_internet
+Test: 
+MSE: 25.7009390151
+R2: -0.012069555354
+Test: 
+MSE: 25.4302299944
+R2: -0.0185052972074
+####################
+
+####################
+Column: amenities_iron
+Test: 
+MSE: 25.3752705537
+R2: 0.000754845134221
+Test: 
+MSE: 25.0453817574
+R2: -0.00309175324465
+####################
+
+####################
+Column: amenities_keypad
+Test: 
+MSE: 25.5945368182
+R2: -0.00787957521213
+Test: 
+MSE: 25.2556922797
+R2: -0.0115148929923
+####################
+
+####################
+Column: amenities_kitchen
+Test: 
+MSE: 25.6819754206
+R2: -0.0113227936641
+Test: 
+MSE: 25.3341940938
+R2: -0.0146589665412
+####################
+
+####################
+Column: amenities_laptopfriendlyworkspace
+Test: 
+MSE: 25.4479139525
+R2: -0.00210575744058
+Test: 
+MSE: 25.1067296465
+R2: -0.005548795517
+####################
+
+####################
+Column: amenities_lockbox
+Test: 
+MSE: 25.6812444988
+R2: -0.0112940109172
+Test: 
+MSE: 25.312298832
+R2: -0.0137820401367
+####################
+
+####################
+Column: amenities_lockonbedroomdoor
+Test: 
+MSE: 25.6757355981
+R2: -0.0110770775681
+Test: 
+MSE: 25.3524903142
+R2: -0.0153917478568
+####################
+
+####################
+Column: amenities_longtermstaysallowed
+Test: 
+MSE: 25.6725216314
+R2: -0.0109505157395
+Test: 
+MSE: 25.3246886866
+R2: -0.0142782657955
+####################
+
+####################
+Column: amenities_luggagedropoffallowed
+Test: 
+MSE: 25.5660747367
+R2: -0.00675877545817
+Test: 
+MSE: 25.2160403333
+R2: -0.00992679420141
+####################
+
+####################
+Column: amenities_nan
+Test: 
+MSE: 25.6121323725
+R2: -0.00857246525888
+Test: 
+MSE: 25.2661744669
+R2: -0.0119347147213
+####################
+
+####################
+Column: amenities_petsallowed
+Test: 
+MSE: 25.6968472736
+R2: -0.0119084278944
+Test: 
+MSE: 25.3241394478
+R2: -0.0142562682473
+####################
+
+####################
+Column: amenities_petsliveonthisproperty
+Test: 
+MSE: 25.6538157763
+R2: -0.0102139034951
+Test: 
+MSE: 25.311229857
+R2: -0.0137392266562
+####################
+
+####################
+Column: amenities_pool
+Test: 
+MSE: 25.7004879526
+R2: -0.0120517931003
+Test: 
+MSE: 25.3397062717
+R2: -0.0148797345943
+####################
+
+####################
+Column: amenities_privateentrance
+Test: 
+MSE: 25.5493169066
+R2: -0.00609887390012
+Test: 
+MSE: 25.1872866216
+R2: -0.00877518025065
+####################
+
+####################
+Column: amenities_privatelivingroom
+Test: 
+MSE: 25.6244761473
+R2: -0.0090585470591
+Test: 
+MSE: 25.2839177788
+R2: -0.0126453515207
+####################
+
+####################
+Column: amenities_safetycard
+Test: 
+MSE: 25.6104631523
+R2: -0.00850673353943
+Test: 
+MSE: 25.2745466379
+R2: -0.0122700282643
+####################
+
+####################
+Column: amenities_selfcheckin
+Test: 
+MSE: 25.5656472428
+R2: -0.00674194130281
+Test: 
+MSE: 25.243314059
+R2: -0.0110191332851
+####################
+
+####################
+Column: amenities_shampoo
+Test: 
+MSE: 25.5325222324
+R2: -0.00543752147328
+Test: 
+MSE: 25.2742246162
+R2: -0.012257130987
+####################
+
+####################
+Column: amenities_smartlock
+Test: 
+MSE: 25.6731727512
+R2: -0.0109761559921
+Test: 
+MSE: 25.3277141612
+R2: -0.0143994389779
+####################
+
+####################
+Column: amenities_smokedetector
+Test: 
+MSE: 25.5111213927
+R2: -0.00459478423453
+Test: 
+MSE: 25.1714686717
+R2: -0.00814165606562
+####################
+
+####################
+Column: amenities_smokingallowed
+Test: 
+MSE: 25.678881519
+R2: -0.0112009598434
+Test: 
+MSE: 25.3185841376
+R2: -0.014033772705
+####################
+
+####################
+Column: amenities_suitableforevents
+Test: 
+MSE: 25.6967448214
+R2: -0.0119043934628
+Test: 
+MSE: 25.3533450805
+R2: -0.0154259820745
+####################
+
+####################
+Column: amenities_translationmissingenhostingamenity
+Test: 
+MSE: 25.6716448308
+R2: -0.0109159884735
+Test: 
+MSE: 25.3123883419
+R2: -0.013785625098
+####################
+
+####################
+Column: amenities_tv
+Test: 
+MSE: 25.577580949
+R2: -0.00721187513378
+Test: 
+MSE: 25.2562935621
+R2: -0.0115389749343
+####################
+
+####################
+Column: amenities_washer
+Test: 
+MSE: 25.5649382237
+R2: -0.00671402105355
+Test: 
+MSE: 25.2604020085
+R2: -0.0117035221826
+####################
+
+####################
+Column: amenities_wheelchairaccessible
+Test: 
+MSE: 25.7002113374
+R2: -0.0120409003542
+Test: 
+MSE: 25.3532113171
+R2: -0.015420624721
+####################
+
+####################
+Column: amenities_wifi
+Test: 
+MSE: 25.5238757465
+R2: -0.00509703409982
+Test: 
+MSE: 25.1737928414
+R2: -0.0082347413091
+####################
+
+####################
+Column: amenities_wirelessinternet
+Test: 
+MSE: 25.6888844968
+R2: -0.0115948641002
+Test: 
+MSE: 25.3377761061
+R2: -0.0148024295969
+####################
+
